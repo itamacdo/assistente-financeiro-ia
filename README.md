@@ -1,6 +1,6 @@
-# 🤖 Assistente Financeiro com IA
+# Assistente Financeiro com IA
 
-## 📌 Descrição do Projeto
+## Descrição do Projeto
 
 Este projeto consiste na criação de um **Assistente Financeiro Digital**, guiado por princípios de **IA generativa, Python, dados e UX**, com foco em relacionamento financeiro e educação do usuário.
 
@@ -10,7 +10,7 @@ O objetivo é consolidar o aprendizado da trilha, aplicando boas práticas técn
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 * Criar uma experiência digital orientada ao usuário
 * Simular o uso de IA generativa em um contexto financeiro
@@ -20,14 +20,14 @@ O objetivo é consolidar o aprendizado da trilha, aplicando boas práticas técn
 
 ---
 
-## 🧠 Funcionalidades
+## Funcionalidades
 
-* 💬 Interação em linguagem natural
-* 📘 FAQs financeiros inteligentes
-* 🧮 Simulações financeiras demonstrativas
-* 🏦 Explicação de produtos financeiros
-* 🧠 Persistência de contexto por usuário
-* 🔒 Respostas seguras (sem aconselhamento financeiro definitivo)
+*  Interação em linguagem natural
+*  FAQs financeiros inteligentes
+*  Simulações financeiras demonstrativas
+*  Explicação de produtos financeiros
+*  Persistência de contexto por usuário
+*  Respostas seguras (sem aconselhamento financeiro definitivo)
 
 ---
 
