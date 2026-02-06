@@ -68,15 +68,15 @@ assistente-financeiro-ia/
 
 ---
 
-## ▶️ Como Executar o Projeto
+## Como Executar o Projeto
 
-### 1️⃣ Clonar o repositório
+### Clonar o repositório
 
 ```bash
 git clone <url-do-repositorio>
 ```
 
-### 2️⃣ Criar e ativar o ambiente virtual
+### Criar e ativar o ambiente virtual
 
 ```bash
 python -m venv venv
@@ -94,19 +94,19 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-### 3️⃣ Instalar as dependências
+### Instalar as dependências
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4️⃣ Executar a aplicação
+### Executar a aplicação
 
 ```bash
 uvicorn app.main:app --reload
 ```
 
-### 5️⃣ Acessar a documentação da API
+### Acessar a documentação da API
 
 ```
 http://127.0.0.1:8000/docs
@@ -114,7 +114,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🧪 Exemplos de Perguntas
+## Exemplos de Perguntas
 
 * "O que é CDI?"
 * "O que é a taxa Selic?"
@@ -124,7 +124,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🎨 Experiência do Usuário (UX)
+## Experiência do Usuário (UX)
 
 O projeto foi desenvolvido com foco em:
 
@@ -136,7 +136,7 @@ O projeto foi desenvolvido com foco em:
 
 ---
 
-## ⚠️ Observações Importantes
+## Observações Importantes
 
 * As simulações financeiras são **apenas demonstrativas**
 * O assistente não fornece recomendações financeiras definitivas
@@ -144,7 +144,7 @@ O projeto foi desenvolvido com foco em:
 
 ---
 
-## 🚀 Possíveis Evoluções
+## Possíveis Evoluções
 
 * Integração com IA generativa real (OpenAI, Azure, etc.)
 * Criação de interface web (React ou HTML/CSS)
@@ -158,6 +158,3 @@ O projeto foi desenvolvido com foco em:
 
 Projeto desenvolvido como parte de um **desafio educacional em IA, Python e UX**, com foco em soluções digitais para relacionamento financeiro.
 
----
-
-✅ **Projeto pronto para execução, avaliação técnica e apresentação.**
